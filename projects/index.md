@@ -1,4 +1,5 @@
 ---
-layout: home
+layout: home-projects
 title: Projects
+category: projects
 ---
